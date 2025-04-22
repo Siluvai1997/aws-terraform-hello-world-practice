@@ -1,2 +1,2 @@
-# aws-tf-hello-world-practice
-Sample terraform files to interact with AWS
+# Connect with AWS envrionment using Terraform
+Sample terraform files to interact with AWS environment
